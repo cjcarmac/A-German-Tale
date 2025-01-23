@@ -9,5 +9,8 @@
 - **Ethan Sok**  
   - https://github.com/aahddmamdouhh/StoryTime_waldgeist/pull/1
 
+- **Robert Goodman**
+  - https://github.com/swbitney/zauberwald-story/pull/1 
+
 - **[Your Teammate's Name]**  
   - [Pull Request Link]
