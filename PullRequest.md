@@ -10,7 +10,10 @@
   - https://github.com/aahddmamdouhh/StoryTime_waldgeist/pull/1
 
 - **Robert Goodman**
-  - https://github.com/swbitney/zauberwald-story/pull/1 
+  - https://github.com/swbitney/zauberwald-story/pull/1
+ 
+- **Cameron Carmack**
+  - https://github.com/JDaw2024/spring2025-ser316-story/pull/16 
 
 - **[Your Teammate's Name]**  
   - [Pull Request Link]
